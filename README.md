@@ -1,0 +1,1 @@
+Fashion-Style-27K contains pure fashion descriptions, attribute words, categories, and item iamges with different angles. A more fine-grained version is being organized. Some examples of the raw data have been uploaded. The entire datatsets will be available.
